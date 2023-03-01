@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Harry101
+- 👋 Hi, I’m @Haris Hummam
 - 👀 I’m interested in Software Engineering, Web and Android Development, Graphic Designing and Animation.
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m a Web Developer in MERN stack and Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: On my email: harishummambaluch@gmail.com
 
